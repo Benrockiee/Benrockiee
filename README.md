@@ -1,4 +1,4 @@
-![MasterHead](https://www.sovereignconsult.com/wp-content/uploads/2019/07/blockchain-development.gif)
+![MasterHead](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 <h1 align="center">Hi 👋, I'm Benjamin izuchukwu umeike</h1>
 <h3 align="center">A Web3 backend developer from Nigeria</h3>
   <img align="right" alt="Coding" width="400" src= "http://www.clickmee.in/assets/aboutus.gif"
