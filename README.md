@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
-- 💬 Ask me about **Nfts, Solidity, Javascript.**
+- 💬 Ask me about **Smart Contracts.**
 
 - 📫 How to reach me **benrockiee@gmail.com**
 
